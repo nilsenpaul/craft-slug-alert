@@ -1,7 +1,7 @@
 {
   "name": "nilsenpaul/slug-alert",
   "description": "Warn your editors about the potentially negative side effects of changing slugs",
-  "version": "1.0.0",
+  "version": "1.0.0.1",
   "type": "craft-plugin",
   "license": "MIT",
   "authors": [

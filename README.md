@@ -20,3 +20,6 @@ You can also install Slug Alert via the **Plugin Store** in the Craft Control Pa
 
 ## Setup
 Using the plugin's settings page, you have control over the message that is shown, and the event that trigger the notification.
+
+## TO-DO
+- Find a way to determine if an entry or category has been active at any stage of their existence
