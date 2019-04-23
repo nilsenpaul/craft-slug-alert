@@ -19,4 +19,4 @@ This plugin requires Craft CMS 3.0.0 or later.
 You can also install Slug Alert via the **Plugin Store** in the Craft Control Panel.
 
 ## Setup
-Using the plugin's settings page, you have over the message that is shown, and the event that trigger the notification.
+Using the plugin's settings page, you have control over the message that is shown, and the event that trigger the notification.
