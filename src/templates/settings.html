@@ -1,0 +1,16 @@
+{% import "_includes/forms" as forms %}
+
+{{ forms.lightswitchField({
+    first: true,
+    label: 'Activate Slug Alert' |t('slug-alert'),
+    instructions: 'Use this setting to toggle this plugin off and on' |t('slug-alert'),
+    name: 'pluginIsActive',
+    on: settings.pluginIsActive,
+}) }}
+
+{{ forms.textField({
+    label: 'Alert message' |t('slug-alert'),
+    instructions: 'Enter the alert message that Slug Alert displays' |t('slug-alert'),
+    name: 'alertMessage',
+    value: settings.alertMessage,
+}) }}
